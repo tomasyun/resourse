@@ -459,6 +459,7 @@
 + 百度云搜索_网盘搜索_百度云资源_百度网盘搜索-坑搜网：http://www.kengso.com/
 + 百度网盘搜索引擎_网盘搜索神器_百度云网盘搜索引擎-搜盘侠：http://www.sopanxia.com/
 + 资源火：https://zyhuo.com/
++ chatGpt:http://home.cutim.top/
 + 万千合集站 最专业的学术类资源聚合导航站：http://www.hejizhan.com/html/search
 + 百度网盘搜索-小白盘：https://www.xiaobaipan.com/
 + 良许的个人网站_定期分享技术资料、源码等干货，定期送书：http://www.liangxu.co/
